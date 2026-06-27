@@ -46,6 +46,7 @@ A beginner-friendly practice repository for basic sorting algorithms, starting w
 
 * GitHub: https://github.com/mehzabin-kamal
 * LinkedIn: www.linkedin.com/in/mehzabin-kamal-410a623a0
+* Facebook: mehzabin.kamal.2024
 
 
 <!--
